@@ -1,2 +1,4 @@
 # Axis_Bank_Final_project
-This project is we see customer details and transaction based each branches
+This project is we see customer details and transaction with cloud using.
+
+This project is a full-stack banking analytics application developed using Python, Streamlit, PostgreSQL, SQLAlchemy, and PDF data extraction techniques. It automatically extracts customer and transaction information from 1,000 Axis Bank statement PDFs using PyMuPDF, processes and stores the data in a PostgreSQL database, and provides secure role-based access for Admin, Manager, and Customer users. The application includes interactive dashboards for customer account details, transaction history, branch-wise customer management, bank-wide analytics, filtering, searching, and CSV report downloads. This project demonstrates end-to-end data engineering, database management, cloud integration, PDF parsing, authentication, and interactive dashboard development for real-world banking analytics.
